@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "1Ls1+woe/9XTGt+SnDzJh8ADJr0=",
+			"path": "github.com/niklasfasching/go-org/org",
+			"revision": "115a8b9c1b6d5ac3397b68e1db9d283439a92510",
+			"revisionTime": "2020-01-16T23:55:11Z"
+		},
+		{
+			"checksumSHA1": "g4/11FmfYSWnIr1t21nkxsjR/c8=",
+			"path": "github.com/yosssi/gohtml",
+			"revision": "ee4748c638f45e3ac89e2c6272e417063288e305",
+			"revisionTime": "2020-10-13T00:03:40Z"
+		}
+	],
+	"rootPath": "github.com/mikejquinn/orgtohtml"
+}
